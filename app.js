@@ -1,2 +1,2 @@
 console.log("Hello")
-console.log("ทดลองเพิ่มคำสั่งใหม่เข้ามาบน Server (GitHub)")
+console.log("ทดลองเพิ่มคำสั่งใหม่เข้ามาบน Server (GitHub) 2")
